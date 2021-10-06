@@ -1,8 +1,11 @@
 
 ## Oiii! Eu sou o Matheus Rodrigues 👋
 
-- Estudando React Native
-- Procurando Estágio em Desenvolvimento
+# I'm a student of Web and Mobile Development!!
+
+- 🌱 Estudando React Native
+- 🎯 Procuro a cada dia melhor mais!
+- 💻Procurando Estágio em Desenvolvimento ou Dev Júnior
 
  <div>
   <a href="https://github.com/manuteu">
