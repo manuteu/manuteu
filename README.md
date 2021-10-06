@@ -1,7 +1,7 @@
 
-## Olá!! Eu sou o Matheus Rodrigues 👋
+# Olá!! Eu sou o Matheus Rodrigues 👋
 
-# I'm a student of Web and Mobile Development!!
+## Sou estudante de Desenvolvimento Web e Mobile!!
 
 - 🌱 Estudando React Native
 - 🎯 Procuro a cada dia melhor mais!
