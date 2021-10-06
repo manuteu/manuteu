@@ -1,6 +1,9 @@
 
 ## Oiii! Eu sou o Matheus Rodrigues 👋
 
+- Estudando React Native
+- Procurando Estágio em Desenvolvimento
+
  <div>
   <a href="https://github.com/manuteu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuteu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
