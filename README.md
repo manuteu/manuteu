@@ -5,7 +5,7 @@
 
 - 🌱 Estudando React Native
 - 🎯 Procuro a cada dia melhor mais!
-- 💻Procurando Estágio em Desenvolvimento ou Dev Júnior
+- 💻Procurando novas Oportunidades!
 
  <div>
   <a href="https://github.com/manuteu">
