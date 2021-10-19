@@ -4,7 +4,7 @@
 ## Sou estudante de Desenvolvimento Web e Mobile!!
 
 - 🌱 Estudando React Native
-- 🎯 Procuro a cada dia melhor mais!
+- 🎯 Procuro a cada dia melhorar mais!
 - 💻Procurando novas Oportunidades!
 
  <div>
