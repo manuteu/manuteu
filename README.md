@@ -3,9 +3,9 @@
 
 ## Sou estudante de Desenvolvimento Web e Mobile!!
 
-- 🌱 Estudando React Native
+- 🌱 Estudando React Native e ReactJS
 - 🎯 Procuro a cada dia melhorar mais!
-- 💻Procurando novas Oportunidades!
+- 💻 Desenvolvedor Frontend na MoneyCloud
 
  <div>
   <a href="https://github.com/manuteu">
