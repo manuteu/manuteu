@@ -1,9 +1,9 @@
 
 # Olá!! Eu sou o Matheus Rodrigues 👋
 
-## Sou estudante de Desenvolvimento Web e Mobile!!
+## Desenvolvedor Web e Mobile!!
 
-- 🌱 Estudando React Native e ReactJS
+- 🌱 React Native, ReactJS e VueJS
 - 🎯 Procuro a cada dia melhorar mais!
 - 💻 Desenvolvedor Frontend na MoneyCloud
 
