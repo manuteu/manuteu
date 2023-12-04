@@ -6,6 +6,7 @@
 - 🌱 React Native, ReactJS e VueJS
 - 🎯 Procuro a cada dia melhorar mais!
 - 💻 Desenvolvedor Frontend na MoneyCloud
+- 📘 Cursando na Rocketseat
 
  <div>
   <a href="https://github.com/manuteu">
