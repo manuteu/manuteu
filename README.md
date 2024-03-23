@@ -5,7 +5,7 @@
 
 - 🌱 React Native, ReactJS e VueJS
 - 🎯 Procuro a cada dia melhorar mais!
-- 💻 Desenvolvedor Frontend na MoneyCloud
+- 💻 Desenvolvedor Frontend Pleno na MoneyCloud
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 📘 Cursando na Rocketseat
 
